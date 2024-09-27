@@ -1,3 +1,8 @@
+- configured tailwind
+- header
+login form
+
+
 # features
 - login/signup
     -signin/up form
@@ -14,6 +19,6 @@
 -Netflix GPT
     -Search bar 
     -movie suggestions
-    
+
 
   
