@@ -1,6 +1,12 @@
 - configured tailwind
 - header
 login form
+- signin
+- signup form
+
+routing
+- form validation
+- useRef hooks
 
 
 # features
